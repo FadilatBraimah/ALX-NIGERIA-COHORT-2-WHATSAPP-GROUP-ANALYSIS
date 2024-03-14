@@ -1,5 +1,5 @@
 # ALX NIGERIA COHORT 2 WHATSAPP GROUP ANALYSIS
-ALX, A Sand Company whose mission is to address the global shortage of tech talent, ALX Africa takes center stage. It serves as the technology training apparatus that provides the techno-fluent leaders of tomorrow with access to the skills and tools needed to succeed in today’s digital world.
+ALX, A Sand Company whose mission is to address the global shortage of tech talent and ALX Africa takes centre stage. It serves as the technology training apparatus that provides the techno-fluent leaders of tomorrow with access to the skills and tools needed to succeed in today’s digital world.
 During Foundations, you will learn professional skills that will help you succeed in your ALX specialization and that can carry you throughout your career. The skills you learn are future-proof and able to adapt to whatever changes might happen as tech evolves.
 
 ## Introduction
@@ -11,7 +11,7 @@ The ALX Nigeria Cohort 2 Group Chat serves as a central hub for communication an
 - Gain insights into the patterns and trends of communication among participants.
 - Identify key topics and words that dominate discussions within the group.
 - Determine peak chatting times and assess overall engagement levels.
-- Provide actionable recommendations within the ALX community.
+
 
 ## Methodology 
 
@@ -25,14 +25,14 @@ See here for cleaned data ![Cleaneddata.jpeg]()
 
 ### Data Analysis Techniques
 Various data analysis techniques were employed to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. A date table was created to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
-See data modelling here 
+See data modeling here 
 ![Datamodelling.jpeg]()
 
-### Defination of terms
+### Definition of terms
 - *Date:* This is a standard timetable that contains a list of dates within the duration of the chat.
-- *Time:* The timetable to facilitate analysis across time, hour and day
+- *Time:* The timetable to facilitate analysis across time, hour, and day
 - *Person:* The assigned name of group participants
-- *Active Users:* Users that has dropped a message within the stated duration of this project
+- *Active Users:* Users that have dropped a message within the stated duration of this project
 
 ## Visualization
 - *Peak Chatting Time and Most Active Month*: The analysis revealed that the overall peak chatting time occurred at 8:44 PM, indicating a heightened level of activity during this period. January emerged as the month with the highest conversation volume, suggesting increased engagement among participants during this timeframe.
@@ -51,7 +51,7 @@ See data modelling here
 ## Conclusion
 I had fun carrying out this project. The Pbix file containing the user's ID was only shared with the group based on a general request to check on their activity in the group for privacy. In the future, there might be a possible improvement in the report.
 
-_**Disclamer**:_ If your information is revealed during the process of this analysis, it was not intentional. This report is published with the approval of my team mate. 
+_**Disclaimer**:_ If your information is revealed during the process of this analysis, it was not intentional. This report is published with the approval of my team mate. 
 
 
 *Here is a link to the interactive* [Dashobard](https://app.powerbi.com/view?r=eyJrIjoiMjAwOWI4ZDItNTJmZS00ZmFmLTg5ODQtODFjZDExZjFkMTEyIiwidCI6IjgyMTFmMzM1LWI0YWUtNGQ3NS04ODdkLTdkZGM4ZTJlZDRhYiJ9)
