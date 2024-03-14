@@ -16,20 +16,47 @@ The ALX Nigeria Cohort 2 Group Chat serves as a central hub for communication an
 ## Methodology 
 
 ### Data Collection
-The data for this analysis was extracted from the ALX Nigeria Cohort 2 Group, which served as the primary source of communication among participants during the ALX Foundation program. The chat data was exported from the WhatsApp group as a text document for further analysis. see file here 
+The data for this analysis was extracted from the ALX Nigeria Cohort 2 Group, which served as the primary source of communication among participants during the ALX Foundation program. The chat data was exported from the WhatsApp group as a text document for further analysis. see here for dataset 
+![DirtyData.jpeg]()
 
 ### Data Cleaning and Transformation
 Before analysis, the raw chat data was extensively cleaned and transformed using Power BI Power Query Editor. This involved removing duplicates, handling missing values, replacing values, removing unwanted columns, removing null values, and standardizing the format of the data to ensure consistency and accuracy.
+See here for cleaned data ![Cleaneddata.jpeg]()
 
 ### Data Analysis Techniques
 Various data analysis techniques were employed to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. A date table was created to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
+See data modelling here 
+![Datamodelling.jpeg]()
+
+### Defination of terms
+- *Date:* This is a standard timetable that contains a list of dates within the duration of the chat.
+- *Time:* The timetable to facilitate analysis across time, hour and day
+- *Person:* The assigned name of group participants
+- *Active Users:* Users that has dropped a message within the stated duration of this project
 
 ## Visualization
 - *Peak Chatting Time and Most Active Month*: The analysis revealed that the overall peak chatting time occurred at 8:44 PM, indicating a heightened level of activity during this period. January emerged as the month with the highest conversation volume, suggesting increased engagement among participants during this timeframe.
 
 - *User Engagement*: Person 16 and Person 20 were identified as the most engaged participants in the group chat, contributing 682 and 680 comments respectively. This indicates a significant level of interaction and participation from these individuals within the ALX Nigeria Cohort 2 community.
 
+![ALXDashboard.jpeg]()
+
+## Data and Report Limitations
+- From the data extracted, there is no way to identify who a particular message was sent to or tagged.
+- Parts of the messages might be omitted due to some data-cleaning processes in the power query editor.
+- The report does not include all the messages in the chats, it only contained messages from the day I joined the group.
+- The report does not cover a thematic analysis of the chats.
+
+
+## Conclusion
+I had fun carrying out this project. The Pbix file containing the user's ID was only shared with the group based on a general request to check on their activity in the group for privacy. In the future, there might be a possible improvement in the report.
+
+_**Disclamer**:_ If your information is revealed during the process of this analysis, it was not intentional. This report is published with the approval of my team mate. 
+
 
 *Here is a link to the interactive* [Dashobard](https://app.powerbi.com/view?r=eyJrIjoiMjAwOWI4ZDItNTJmZS00ZmFmLTg5ODQtODFjZDExZjFkMTEyIiwidCI6IjgyMTFmMzM1LWI0YWUtNGQ3NS04ODdkLTdkZGM4ZTJlZDRhYiJ9)
 
+
+
+_Thank you for reading_ 😄
 
