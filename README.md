@@ -21,7 +21,7 @@ The data for this analysis was extracted from the ALX Nigeria Cohort 2 Group, wh
 
 ### Data Cleaning and Transformation
 Before analysis, the raw chat data was extensively cleaned and transformed using Power BI Power Query Editor. This involved removing duplicates, handling missing values, replacing values, removing unwanted columns, removing null values, and standardizing the format of the data to ensure consistency and accuracy.
-See here for cleaned data ![Cleaneddata.jpeg]()
+See here for cleaned data ![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/d7a697da3949f973e21aebe41f66f9a41121970d/Cleaneddata.jpeg)
 
 ### Data Analysis Techniques
 Various data analysis techniques were employed to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. A date table was created to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
