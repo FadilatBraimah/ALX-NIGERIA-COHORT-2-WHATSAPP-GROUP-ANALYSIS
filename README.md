@@ -17,7 +17,7 @@ The ALX Nigeria Cohort 2 Group Chat serves as a central hub for communication an
 
 ### Data Collection
 The data for this analysis was extracted from the ALX Nigeria Cohort 2 Group, which served as the primary source of communication among participants during the ALX Foundation program. The chat data was exported from the WhatsApp group as a text document for further analysis. see here for dataset 
-![DirtyData.jpeg]()
+![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/45f4eb6e942758ba4cdd79bd19f3f5a0eaab8e82/DirtyData.jpeg)
 
 ### Data Cleaning and Transformation
 Before analysis, the raw chat data was extensively cleaned and transformed using Power BI Power Query Editor. This involved removing duplicates, handling missing values, replacing values, removing unwanted columns, removing null values, and standardizing the format of the data to ensure consistency and accuracy.
