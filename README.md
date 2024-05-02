@@ -39,7 +39,7 @@ See data modeling here
 
 - *User Engagement*: Person 16 and Person 20 were identified as the most engaged participants in the group chat, contributing 682 and 680 comments respectively. This indicates a significant level of interaction and participation from these individuals within the ALX Nigeria Cohort 2 community.
 
-![ALXDashboard.jpeg]()
+![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/main/ALXDashboard.jpeg)
 
 ## Data and Report Limitations
 - From the data extracted, there is no way to identify who a particular message was sent to or tagged.
