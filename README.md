@@ -26,7 +26,7 @@ See here for cleaned data ![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHO
 ### Data Analysis Techniques
 Various data analysis techniques were employed to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. A date table was created to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
 See data modeling here 
-![Datamodelling.jpeg]()
+![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/1cf8d1943914fdd68b1e9d8980ce778f09a44836/Datamodelling.jpeg)
 
 ### Definition of terms
 - *Date:* This is a standard timetable that contains a list of dates within the duration of the chat.
