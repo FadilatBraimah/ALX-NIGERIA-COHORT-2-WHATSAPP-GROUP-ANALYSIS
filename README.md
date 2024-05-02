@@ -1,4 +1,5 @@
 # ALX NIGERIA COHORT 2 WHATSAPP GROUP ANALYSIS
+![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/df1efb441dff67b83ff91e95711a71bfbe9d4e3f/Alxlogo1.png)
 ALX, A Sand Company whose mission is to address the global shortage of tech talent and ALX Africa takes centre stage. It serves as the technology training apparatus that provides the techno-fluent leaders of tomorrow with access to the skills and tools needed to succeed in today’s digital world.
 During Foundations, you will learn professional skills that will help you succeed in your ALX specialization and that can carry you throughout your career. The skills you learn are future-proof and able to adapt to whatever changes might happen as tech evolves.
 
@@ -58,5 +59,5 @@ _**Disclaimer**:_ If your information is revealed during the process of this ana
 
 
 
-_Thank you for reading_ 😄
+_*Thank you for reading*_ 😄
 
