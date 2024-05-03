@@ -5,7 +5,7 @@ ALX, A Sand Company whose mission is to address the global shortage of tech tale
 During Foundations, you will learn professional skills that will help you succeed in your ALX specialization and that can carry you throughout your career. The skills you learn are future-proof and able to adapt to whatever changes might happen as tech evolves.
 
 ## Introduction
-Upon completing the ALX Foundation program, I embarked on a journey to delve deeper into our interactions within the Nigerian Cohort 2 group chat. This analysis aims to uncover insights, patterns, and trends within our communication channel throughout the program.
+Upon completing the ALX Foundation program, I embarked on a journey to analyze our interactions within the Nigerian Cohort 2 group chat. This analysis aims to uncover insights, patterns, and trends within our communication channel throughout the program.
 In this documentation, you will find a detailed project overview, including the objectives, methodology, data analysis techniques employed, and key findings. Also, I will provide some insights into the tools and technologies used, along with the challenges encountered throughout the analysis process.
 
 ## Problem Statement
@@ -22,11 +22,11 @@ The data for this analysis was extracted from the ALX Nigeria Cohort 2 Group, wh
 ![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/45f4eb6e942758ba4cdd79bd19f3f5a0eaab8e82/DirtyData.jpeg)
 
 ### Data Cleaning and Transformation
-Before analysis, the raw chat data was extensively cleaned and transformed using Power BI Power Query Editor. This involved removing duplicates, handling missing values, replacing values, removing unwanted columns, removing null values, and standardizing the format of the data to ensure consistency and accuracy.
-See here for cleaned data ![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/d7a697da3949f973e21aebe41f66f9a41121970d/Cleaneddata.jpeg)
+Before analysis, the raw chat data was thoroughly cleaned and transformed using Power BI Power Query Editor. This involved removing duplicates, handling missing values, replacing values, removing unwanted columns, removing null values, and standardizing the format of the data to ensure consistency and accuracy.
+See here for cleaned data [](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/d7a697da3949f973e21aebe41f66f9a41121970d/Cleaneddata.jpeg)
 
 ### Data Analysis Techniques
-Various data analysis techniques were employed to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. A date table was created to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
+The Microsoft Power BI was used to extract insights from the cleaned dataset. Basic and advanced formulas were written in DAX (Data Analysis Expressions) to calculate metrics such as total chats, peak chatting times, and user activity levels. I created a table to act as a reference table, providing a list of dates inside within the conversation period. This table allows for smooth data connection and time-based data analysis. 
 See data modeling here 
 ![](https://github.com/FadilatBraimah/ALX-NIGERIA-COHORT-2-WHATSAPP-GROUP-ANALYSIS/blob/1cf8d1943914fdd68b1e9d8980ce778f09a44836/Datamodelling.jpeg)
 
